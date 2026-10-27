@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/Urushin/aniko-discovery/main/index.pb
 - **Discovery Wikimedia Commons**: the Wikimedia Commons discovery adapter.
 - **Discovery Open Library**: the Open Library discovery adapter.
 
-Install the single **AniKo Discovery** extension to add all three sources, then activate the sources you want in AniKo. Requires the AniKo version supporting the combined Discovery extension. Previously installed sources remain available. Content is hosted by its original provider; availability, licenses and access conditions are determined per work. Open Library catalog records do not imply that every book can be read for free. AniKo subscription limits remain unchanged.
+Install **AniKo Discovery** to add one automatically enabled source combining all three catalogues. Warnings are shown when reactivating a disabled source. Requires the AniKo version supporting the unified Discovery source. Previously installed sources remain available. Content is hosted by its original provider; availability, licenses and access conditions are determined per work. Open Library catalog records do not imply that every book can be read for free. AniKo subscription limits remain unchanged.
 
 ## Files
 
